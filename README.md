@@ -1,4 +1,4 @@
-<!-- ## 👋 &nbsp;Hey there! I'm Sourav -->
+## 👋 &nbsp;Hey there! I'm Sourav
 
 ### 👨🏻‍💻 &nbsp;About Me
 
