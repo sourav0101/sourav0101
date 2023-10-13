@@ -35,7 +35,7 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Static Badge](https://img.shields.io/badge/PHP-000000%20?style=flat&logo=PHP&logoColor=000000%20&color=05122A);
 ![Static Badge](https://img.shields.io/badge/Docker-000000%20?style=flat&logo=docker&logoColor=000000%20&color=05122A)
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+![Static Badge](https://img.shields.io/badge/Postman-000000%20?style=flat&logo=postman&logoColor=000000%20&color=05122A)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
