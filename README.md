@@ -33,8 +33,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Static Badge](https://img.shields.io/badge/PHP-000000%20?style=flat&logo=PHP&logoColor=000000%20&color=05122A)
-
+![Static Badge](https://img.shields.io/badge/PHP-000000%20?style=flat&logo=PHP&logoColor=000000%20&color=05122A);
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 ### ⚙️ &nbsp;GitHub Analytics
