@@ -11,7 +11,7 @@
 📄 &nbsp;Please have a look at my [CV](https://cutt.ly/ZwmNMix4) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/sourav0101/sourav0101/master/assets/Night-Coding.gif" align="right"/>
-
+![](https://komarev.com/ghpvc/?username=sourav0101&label=PROFILE+VIEWS&style=flat-square&color=yellow)
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
