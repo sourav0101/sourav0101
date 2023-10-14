@@ -13,7 +13,9 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/sourav0101/sourav0101/master/assets/Night-Coding.gif" align="right"/>
 
 ![](https://komarev.com/ghpvc/?username=sourav0101&label=PROFILE+VIEWS&style=flat-square&color=blueviolet)
-![Linkedin](https://img.shields.io/badge/sourav0101-0077b5?logo=linkedin)
+![Linkedin](https://img.shields.io/badge/sourav0101-0077b5?logo=linkedin&style=flat-square&labelColor=black)
+![Facebook](https://img.shields.io/badge/sourav0101-0077b5?logo=Facebook&style=flat-square&labelColor=black&link=https%3A%2F%2Fwww.facebook.com%2Fsourav0101)
+
 
 
 
