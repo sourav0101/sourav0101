@@ -14,7 +14,7 @@
 
 <p align="left">
 <a href="https://github.com/sourav0101"><img src="https://komarev.com/ghpvc/?username=sourav0101&label=PROFILE+VIEWS&style=flat-square&color=blueviolet"/></a>
-<a href="https://linkedin.com/in/sourav0101"><img src="https://img.shields.io/badge/sourav0101-0077b5?logo=linkedin&style=flat-square&labelColor=black"/></a>
+<a href="https://linkedin.com/in/sourav0101"><img src="https://img.shields.io/badge/sourav0101-0077b5?logo=linkedin&style=flat-square"/></a>
 <a href="mailto:souravdas9690@gmail.com"><img src="https://img.shields.io/badge/-souravdas9690@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/sourav.py"><img src="https://img.shields.io/badge/-@sourav.py-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  
