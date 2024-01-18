@@ -8,7 +8,7 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Reading books as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at souravdas9690@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [CV](https://cutt.ly/ZwmNMix4) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [CV](https://cutt.ly/NwKOBAf2) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/sourav0101/sourav0101/master/assets/Night-Coding.gif" align="right"/>
 
